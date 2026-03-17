@@ -1,4 +1,4 @@
-// pages/index.tsx
+cat > pages/index.tsx <<EOF
 export default function Home() {
   return (
     <main
@@ -12,3 +12,4 @@ export default function Home() {
     </main>
   );
 }
+EOF
